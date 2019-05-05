@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ERMPower.LPFileReader</id>
+    <version>1.0.1</version>
+    <authors>ERMPower.LPFileReader</authors>
+    <owners>ERMPower.LPFileReader</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>LP File Reader</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="ERMPower.CSVReader.Common" version="1.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\ERMPower.LPFileReader\ERMPower.LPFileReader\bin\Release\netstandard2.0\ERMPower.LPFileReader.dll" target="lib\netstandard2.0\ERMPower.LPFileReader.dll" />
+  </files>
+</package>

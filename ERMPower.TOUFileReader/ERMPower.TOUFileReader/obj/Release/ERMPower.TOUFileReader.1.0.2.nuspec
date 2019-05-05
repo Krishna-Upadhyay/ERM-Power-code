@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ERMPower.TOUFileReader</id>
+    <version>1.0.2</version>
+    <authors>ERMPower.TOUFileReader</authors>
+    <owners>ERMPower.TOUFileReader</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>TOU File Reader</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="ERMPower.CSVReader.Common" version="1.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\bin\Release\netstandard2.0\ERMPower.TOUFileReader.dll" target="lib\netstandard2.0\ERMPower.TOUFileReader.dll" />
+  </files>
+</package>

@@ -1,0 +1,9 @@
+C:\ERMPower.LPFileReader\ERMPower.LPFileReader\bin\Release\netcoreapp2.0\ERMPower.LPFileReader.deps.json
+C:\ERMPower.LPFileReader\ERMPower.LPFileReader\bin\Release\netcoreapp2.0\ERMPower.LPFileReader.dll
+C:\ERMPower.LPFileReader\ERMPower.LPFileReader\bin\Release\netcoreapp2.0\ERMPower.LPFileReader.pdb
+C:\ERMPower.LPFileReader\ERMPower.LPFileReader\obj\Release\netcoreapp2.0\ERMPower.LPFileReader.csprojAssemblyReference.cache
+C:\ERMPower.LPFileReader\ERMPower.LPFileReader\obj\Release\netcoreapp2.0\ERMPower.LPFileReader.csproj.CoreCompileInputs.cache
+C:\ERMPower.LPFileReader\ERMPower.LPFileReader\obj\Release\netcoreapp2.0\ERMPower.LPFileReader.AssemblyInfoInputs.cache
+C:\ERMPower.LPFileReader\ERMPower.LPFileReader\obj\Release\netcoreapp2.0\ERMPower.LPFileReader.AssemblyInfo.cs
+C:\ERMPower.LPFileReader\ERMPower.LPFileReader\obj\Release\netcoreapp2.0\ERMPower.LPFileReader.dll
+C:\ERMPower.LPFileReader\ERMPower.LPFileReader\obj\Release\netcoreapp2.0\ERMPower.LPFileReader.pdb

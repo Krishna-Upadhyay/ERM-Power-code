@@ -1,0 +1,9 @@
+C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\bin\Release\netstandard2.0\ERMPower.CSVReader.Common.deps.json
+C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\bin\Release\netstandard2.0\ERMPower.CSVReader.Common.dll
+C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\bin\Release\netstandard2.0\ERMPower.CSVReader.Common.pdb
+C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netstandard2.0\ERMPower.CSVReader.Common.csproj.CoreCompileInputs.cache
+C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netstandard2.0\ERMPower.CSVReader.Common.AssemblyInfoInputs.cache
+C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netstandard2.0\ERMPower.CSVReader.Common.AssemblyInfo.cs
+C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netstandard2.0\ERMPower.CSVReader.Common.dll
+C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netstandard2.0\ERMPower.CSVReader.Common.pdb
+C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netstandard2.0\ERMPower.CSVReader.Common.csprojAssemblyReference.cache

@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "db8b7b3eeadac54dccb88737006b84ddcfd394a8"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ERMPower.TOUFileReader/1.0.3": {
+        "dependencies": {
+          "ERMPower.CSVReader.Common": "1.0.2"
+        },
+        "runtime": {
+          "ERMPower.TOUFileReader.dll": {}
+        }
+      },
+      "ERMPower.CSVReader.Common/1.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/ERMPower.CSVReader.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ERMPower.TOUFileReader/1.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ERMPower.CSVReader.Common/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Q8NHy3N1TkZB8ss8w9Orqc2++golncBeqFjuHRwSqhgzX+5Ft5MPVxs5OSXiGL2N376K/Z9cqoPgj07cWzS7JA==",
+      "path": "ermpower.csvreader.common/1.0.2",
+      "hashPath": "ermpower.csvreader.common.1.0.2.nupkg.sha512"
+    }
+  }
+}
