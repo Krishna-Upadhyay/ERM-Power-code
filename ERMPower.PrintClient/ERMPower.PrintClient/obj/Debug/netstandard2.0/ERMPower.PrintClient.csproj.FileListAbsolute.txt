@@ -1,9 +1,0 @@
-C:\ERMPower.PrintClient\ERMPower.PrintClient\bin\Debug\netstandard2.0\ERMPower.PrintClient.deps.json
-C:\ERMPower.PrintClient\ERMPower.PrintClient\bin\Debug\netstandard2.0\ERMPower.PrintClient.dll
-C:\ERMPower.PrintClient\ERMPower.PrintClient\obj\Debug\netstandard2.0\ERMPower.PrintClient.csprojAssemblyReference.cache
-C:\ERMPower.PrintClient\ERMPower.PrintClient\obj\Debug\netstandard2.0\ERMPower.PrintClient.csproj.CoreCompileInputs.cache
-C:\ERMPower.PrintClient\ERMPower.PrintClient\obj\Debug\netstandard2.0\ERMPower.PrintClient.AssemblyInfoInputs.cache
-C:\ERMPower.PrintClient\ERMPower.PrintClient\obj\Debug\netstandard2.0\ERMPower.PrintClient.AssemblyInfo.cs
-C:\ERMPower.PrintClient\ERMPower.PrintClient\bin\Debug\netstandard2.0\ERMPower.PrintClient.pdb
-C:\ERMPower.PrintClient\ERMPower.PrintClient\obj\Debug\netstandard2.0\ERMPower.PrintClient.dll
-C:\ERMPower.PrintClient\ERMPower.PrintClient\obj\Debug\netstandard2.0\ERMPower.PrintClient.pdb

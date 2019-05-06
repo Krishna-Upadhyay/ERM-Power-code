@@ -6,3 +6,12 @@ C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0
 C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0\ERMPower.CSVReader.Common.AssemblyInfo.cs
 C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0\ERMPower.CSVReader.Common.dll
 C:\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0\ERMPower.CSVReader.Common.pdb
+C:\ERM-Power-code\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\bin\Release\netcoreapp2.0\ERMPower.CSVReader.Common.deps.json
+C:\ERM-Power-code\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\bin\Release\netcoreapp2.0\ERMPower.CSVReader.Common.dll
+C:\ERM-Power-code\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\bin\Release\netcoreapp2.0\ERMPower.CSVReader.Common.pdb
+C:\ERM-Power-code\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0\ERMPower.CSVReader.Common.csprojAssemblyReference.cache
+C:\ERM-Power-code\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0\ERMPower.CSVReader.Common.csproj.CoreCompileInputs.cache
+C:\ERM-Power-code\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0\ERMPower.CSVReader.Common.AssemblyInfoInputs.cache
+C:\ERM-Power-code\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0\ERMPower.CSVReader.Common.AssemblyInfo.cs
+C:\ERM-Power-code\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0\ERMPower.CSVReader.Common.dll
+C:\ERM-Power-code\ERMPower.CSVReader.Common\ERMPower.CSVReader.Common\obj\Release\netcoreapp2.0\ERMPower.CSVReader.Common.pdb

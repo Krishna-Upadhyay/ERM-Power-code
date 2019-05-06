@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "ERMPower.CSVReader.Common/1.0.3": {
+      "ERMPower.CSVReader.Common/1.0.4": {
         "runtime": {
           "ERMPower.CSVReader.Common.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "ERMPower.CSVReader.Common/1.0.3": {
+    "ERMPower.CSVReader.Common/1.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

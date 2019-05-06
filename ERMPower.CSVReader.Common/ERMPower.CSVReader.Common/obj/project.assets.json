@@ -668,13 +668,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "restore": {
-      "projectUniqueName": "C:\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common.csproj",
+      "projectUniqueName": "C:\\ERM-Power-code\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common.csproj",
       "projectName": "ERMPower.CSVReader.Common",
-      "projectPath": "C:\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common.csproj",
+      "projectPath": "C:\\ERM-Power-code\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common.csproj",
       "packagesPath": "C:\\Users\\kupadhyay\\.nuget\\packages\\",
-      "outputPath": "C:\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common\\obj\\",
+      "outputPath": "C:\\ERM-Power-code\\ERMPower.CSVReader.Common\\ERMPower.CSVReader.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

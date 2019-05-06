@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERMPower.CSVReader.LPFileReader", "ERMPower.CSVReader.LPFileReader\ERMPower.CSVReader.LPFileReader.csproj", "{D26401C6-5747-4A8E-9175-4C91B7CFF7DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26401C6-5747-4A8E-9175-4C91B7CFF7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26401C6-5747-4A8E-9175-4C91B7CFF7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26401C6-5747-4A8E-9175-4C91B7CFF7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26401C6-5747-4A8E-9175-4C91B7CFF7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7C9833D-B5E8-471C-8E9B-4C80D441CFE2}
+	EndGlobalSection
+EndGlobal

@@ -1,9 +1,0 @@
-C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\bin\Debug\netstandard2.0\ERMPower.TOUFileReader.deps.json
-C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\bin\Debug\netstandard2.0\ERMPower.TOUFileReader.dll
-C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\obj\Debug\netstandard2.0\ERMPower.TOUFileReader.csprojAssemblyReference.cache
-C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\obj\Debug\netstandard2.0\ERMPower.TOUFileReader.csproj.CoreCompileInputs.cache
-C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\obj\Debug\netstandard2.0\ERMPower.TOUFileReader.AssemblyInfoInputs.cache
-C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\obj\Debug\netstandard2.0\ERMPower.TOUFileReader.AssemblyInfo.cs
-C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\bin\Debug\netstandard2.0\ERMPower.TOUFileReader.pdb
-C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\obj\Debug\netstandard2.0\ERMPower.TOUFileReader.dll
-C:\ERMPower.TOUFileReader\ERMPower.TOUFileReader\obj\Debug\netstandard2.0\ERMPower.TOUFileReader.pdb
