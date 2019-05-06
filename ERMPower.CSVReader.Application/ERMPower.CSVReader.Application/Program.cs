@@ -31,8 +31,6 @@ namespace CSVReader
                 }
             }
             Console.ReadKey();
-        }
-       
-    }   
-
+        }       
+    } 
 }
