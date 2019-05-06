@@ -19,9 +19,13 @@ namespace ERMPower.LPFileReader.Services
         {
             var dataList = ReadFileIntoEntity();
 
-            var medianPrice = CalculateMedianPrice(dataList);
+            var medianPriceCalculatorService = new MedianPriceCalculatorService(dataList);
+            var medianPrice = medianPriceCalculatorService.CalculateMedianPrice();
 
-            return GenerateConsoleOutput(dataList, medianPrice);
+            var generateCSVOutputService = new GenerateCSVOutputService(dataList, medianPrice, Path.GetFileName(FileName));
+            var consoleOutput = generateCSVOutputService.GenerateConsoleOutput();
+
+            return consoleOutput;
         }
 
         private List<LPEntity> ReadFileIntoEntity()
@@ -51,45 +55,6 @@ namespace ERMPower.LPFileReader.Services
             }
             return dataList;
         }
-
-        private decimal CalculateMedianPrice(List<LPEntity> entryList)
-        {
-            int numberCount = entryList.Count();
-            int halfIndex = entryList.Count() / 2;
-            var sortedNumbers = entryList.OrderBy(n => n.DataValue).Select(e => e.DataValue);
-            decimal median;
-            if ((numberCount % 2) == 0)
-            {
-                median = ((sortedNumbers.ElementAt(halfIndex) +
-                    sortedNumbers.ElementAt(halfIndex - 1)) / 2);
-            }
-            else
-            {
-                median = sortedNumbers.ElementAt(halfIndex);
-            }
-
-            return median;
-        }
-
-        private List<ConsoleOutput> GenerateConsoleOutput(List<LPEntity> entryList, decimal medianPrice)
-        {
-            List<ConsoleOutput> rowsToPrint = new List<ConsoleOutput>();
-            foreach (var touEntity in entryList)
-            {
-                decimal twentyPercentMedianPrice = medianPrice * Convert.ToDecimal(0.2);
-                if ((touEntity.DataValue > twentyPercentMedianPrice || touEntity.DataValue < twentyPercentMedianPrice) &&
-                    touEntity.DataValue != twentyPercentMedianPrice)
-                {
-                    rowsToPrint.Add(new ConsoleOutput()
-                    {
-                        FileName = Path.GetFileName(this.FileName),
-                        DateTime = touEntity.DateTime,
-                        DataValue = touEntity.DataValue,
-                        MedianValue = medianPrice
-                    });
-                }
-            }
-            return rowsToPrint;
-        }      
+     
     }
 }

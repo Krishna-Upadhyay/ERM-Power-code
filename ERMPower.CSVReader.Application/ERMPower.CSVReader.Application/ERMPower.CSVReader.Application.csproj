@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="ERMPower.CSVReader.Common" Version="1.0.4" />
-    <PackageReference Include="ERMPower.CSVReader.LPFileReader" Version="1.0.3" />
+    <PackageReference Include="ERMPower.CSVReader.LPFileReader" Version="1.0.4" />
     <PackageReference Include="ERMPower.CSVReader.PrintClient" Version="1.0.2" />
     <PackageReference Include="ERMPower.CSVReader.TOUFileReader" Version="1.0.7" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
